@@ -11,7 +11,7 @@ written in C++.
 `$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
 - GCC  
 `brew install gcc`  
-- POV-Ray
+- POV-Ray  
 `brew install povray`  
 # Usage  
 Clone this repository
